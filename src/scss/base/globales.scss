@@ -1,0 +1,21 @@
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+body {
+  font-family: $fuentePrincipal;
+  font-size: 1.6rem;
+}
+
+p {
+  font-size: 2rem;
+  color: $negro;
+}
+.contenedor {
+  max-width: 120rem;
+}
