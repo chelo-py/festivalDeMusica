@@ -1,0 +1,25 @@
+{
+  "name": "festivalmusica_inicio",
+  "version": "1.0.0",
+  "description": "Aprendiendo gulp y sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chelo-py/festivalDeMusica.git"
+  },
+  "keywords": [
+    "SASS",
+    "GULP",
+    "WEB",
+    "DESIGN"
+  ],
+  "author": "Marcelo Alarcon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chelo-py/festivalDeMusica/issues"
+  },
+  "homepage": "https://github.com/chelo-py/festivalDeMusica#readme"
+}
