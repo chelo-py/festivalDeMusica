@@ -1,0 +1,23 @@
+.seccion-vocalista {
+  @include tablet {
+    @include grid(2, 4rem);
+    margin-top: 5rem;
+  }
+  .img-vocalista {
+    padding: 2rem 0;
+  }
+  .img-vocalista {
+    @include tablet {
+      padding: 0 0 2rem 0;
+    }
+  }
+
+  .subtitulo {
+    color: $rosa;
+    font-weight: 600;
+    margin: 4rem 0;
+  }
+  .parrafo-vocalista {
+    line-height: 3rem;
+  }
+}
